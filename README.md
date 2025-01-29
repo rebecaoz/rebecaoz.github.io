@@ -1,1 +1,1 @@
-# rebecaoz.github.io-wordle
+# rebecaoz.github.io
